@@ -13,3 +13,6 @@ Just be sure to get a [google cardboard](https://vr.google.com/cardboard/) for t
 
 
 You can also get the full project and open it on [Unity 3D](https://unity3d.com/pt) for a ride. Have fun!
+
+![alt tag](https://github.com/octoninjas/P2-Build-an-apartment/blob/master/Assets/VRND-Course2-Project/Art/Screenshots/Screenshot_2016-11-03-16-41-51.png)
+
